@@ -1,8 +1,4 @@
-# 演算法分析機測
-# 學號 : 10727258 / 10827210 / 10827257
-# 姓名 : 蕭舜心 / 廖珮詞 / 方思涵
-# 中原大學資訊工程系
-# V. 拼圖 (Puzzle)
+#拼圖 (Puzzle)
 import cv2
 import numpy as np
 import os
